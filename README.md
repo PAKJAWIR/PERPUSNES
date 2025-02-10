@@ -1,1 +1,1 @@
-School Project
+Just front end school project
